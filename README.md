@@ -10,7 +10,7 @@ To check out Bolt and set up your first Bolt installation, read
 
 
 ---
-
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 **This repository should be used to work _<ins>on</ins>_ Bolt. Not 
 _<ins>with</ins>_ Bolt. If you want to check out Bolt, the 
